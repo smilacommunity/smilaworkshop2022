@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submition and Deadlines
+title: Submission and Deadlines
 ---
 Two forms of submission are possible for this workshop:
 1. Full Paper: 4 pages + 1 page for references
