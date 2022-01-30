@@ -10,7 +10,9 @@ title: Call for Paper
 * Kevin El Haddad: ISIA Lab, University of Mons
 
 ### Program Committee
-
+Ilaria Torre, KTH Royal Institute of Technology<br>
+Kristiina Jokinen, AI Research Center AIST Tokyo Waterfront<br>
+Emer Gilmartin, ADAPT Center TCD<br>
 
 
 ### Contacts
