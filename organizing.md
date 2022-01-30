@@ -13,7 +13,7 @@ title: Call for Paper
 Ilaria Torre, KTH Royal Institute of Technology<br>
 Kristiina Jokinen, AI Research Center AIST Tokyo Waterfront<br>
 Emer Gilmartin, ADAPT Center TCD<br>
-Abdellah Fourtassi, Aix-Marseille University <br>
+Abdellah Fourtassi, INRIA - Paris, Aix-Marseille University <br>
 Andy Lücking, Université de Paris, Goethe-Universtität Frankfurt am Main<br>
 Beatrice Priego-Valverde, LPL - CNRS, Aix-Marseille University<br>
 Jonathan Ginzburg, LLF - CNRS, Université de Paris<br>
