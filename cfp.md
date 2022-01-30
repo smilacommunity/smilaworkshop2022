@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Paper
+title: Call for Papers
 ---
 
 Smiling and Laughter are crucial communicative means in our interaction and can affect importantly the
