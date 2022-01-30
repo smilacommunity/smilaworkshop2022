@@ -15,8 +15,8 @@ title: Home
 
 navbar-links:
   Call for Papers: "cfp"
-  Instructions and Deadlines: "submission"
-  Submit : "https://www.softconf.com/lrec2022/SmiLa/"
+  Submission and Deadlines: "submission"
+#   Submit : "https://www.softconf.com/lrec2022/SmiLa/"
   Authors Kit: "https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/"
   Organization: "organizing"
 #   About Me: "aboutme"
