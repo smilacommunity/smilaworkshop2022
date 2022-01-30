@@ -12,7 +12,7 @@ Two forms of submission are possible for this workshop:
 * Submission of final version of accepted papers: 23rd May 2022
 * Workshop session: **Friday 24th June 2022**
 
-The full papers will be published as workshop proceedings along with the LREC main conference. For these, the instructions of LREC need to be followed. LaTeX or Word templates are available at this [link](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/).
+The full papers will be published as workshop proceedings along with the LREC main conference. For these, the instructions of LREC need to be followed. LaTeX or Word templates are available at this [link](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/).<br>
 /!\ Please note that the deadlines announced on the LREC page concern only the main conference and not the SmiLa workshop./!\
 
 Remember to Identify, Describe and Share your LRs!!
