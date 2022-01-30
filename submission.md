@@ -7,7 +7,7 @@ Two forms of submission are possible for this workshop:
 2. Extended Abstract: 2 pages including references
 
 
-* Deadline for submission of extended abstracts: 8th April 2022
+* Deadline for submission of extended abstracts: **8th April 2022**
 * Notification of acceptance: 3rd May 2022
 * Submission of final version of accepted papers: 23rd May 2022
 * Workshop session: Friday 24th June 2022
