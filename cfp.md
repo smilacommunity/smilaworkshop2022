@@ -4,7 +4,7 @@ title: Call for Papers
 ---
 
 Smiling and Laughter are crucial communicative means in our interaction and can affect importantly the
-meaning of our utterances, the unfolding of the dialogue and the relationship between interactants. Previous research provided us with important insights into the role of smiling and laughter in interaction, how they "work" and how to process them. Nevertheless, there are still many open questions and under-explored areas of investigation, which given the multidimensional nature of smiling and laughter need a
+meaning of our utterances, the unfolding of the dialogue, and the relationship between interactants. Previous research provided us with important insights into the role of smiling and laughter in interaction, how they "work" and how to process them. Nevertheless, there are still many open questions and under-explored areas of investigation, which given the multidimensional nature of smiling and laughter need a
 multidisciplinary approach to be addressed. The main aim of our workshop is therefore to highlight these still unresolved questions encouraging
 sharing in terms of insights, methods, and resources across domains and fields, in order to further boost
 the interdisciplinary collaborations which are already intrinsically at the core of the community. As a multidisciplinary workshop, we invite contributors of different backgrounds to share their work
