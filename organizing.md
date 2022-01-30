@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Call for Paper
+title: Organization
 ---
 
 ### Organizing Committee
-* Catherine Pelachaud: CNRS - ISIR, Sorbonne University
-* Chiara Mazzocconi: ILCB - LPL, CNRS - Aix-Marseille University.
-* Gary McKeown: School of Behavioural Sciences, Queen’s University Belfast
-* Kevin El Haddad: ISIA Lab, University of Mons
+* Catherine Pelachaud, CNRS - ISIR, Sorbonne University
+* Chiara Mazzocconi, ILCB - LPL, CNRS - Aix-Marseille University.
+* Gary McKeown, School of Behavioural Sciences, Queen’s University Belfast
+* Kevin El Haddad, ISIA Lab, University of Mons
 
 ### Program Committee
 Ilaria Torre, KTH Royal Institute of Technology<br>
