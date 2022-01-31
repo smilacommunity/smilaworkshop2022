@@ -19,7 +19,7 @@ Beatrice Priego-Valverde, LPL - CNRS, Aix-Marseille University<br>
 Jonathan Ginzburg, LLF - CNRS, Université de Paris<br>
 Christine Howes, CLASP, University of Gothenburg<br>
 Greg Bryant, Department of Communication, University of California, Los Angeles<br>
-Isabella Poggi, Cosmic Lab, Department of Philosophy, Communication, and Performing Arts, Roma Tre University<br>
+Isabella Poggi, Department of Philosophy, Communication, and Performing Arts, Roma Tre University, Rome<br>
 
 
 
