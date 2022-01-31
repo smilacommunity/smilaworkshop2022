@@ -14,11 +14,12 @@ Ilaria Torre, KTH Royal Institute of Technology<br>
 Kristiina Jokinen, AI Research Center AIST Tokyo Waterfront<br>
 Emer Gilmartin, ADAPT Center TCD<br>
 Abdellah Fourtassi, INRIA - Paris, Aix-Marseille University <br>
-Andy Lücking, Université de Paris, Goethe-Universtität Frankfurt am Main<br>
+Andy Lücking, LLF - CNRS, Université de Paris; Text Technology Lab, Goethe University Frankfurt<br>
 Beatrice Priego-Valverde, LPL - CNRS, Aix-Marseille University<br>
 Jonathan Ginzburg, LLF - CNRS, Université de Paris<br>
 Christine Howes, CLASP, University of Gothenburg<br>
 Greg Bryant, Department of Communication, University of California, Los Angeles<br>
+Isabella Poggi, Cosmic Lab, Department of Philosophy, Communication, and Performing Arts, Roma Tre University<br>
 
 
 
