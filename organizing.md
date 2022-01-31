@@ -18,6 +18,8 @@ Andy Lücking, Université de Paris, Goethe-Universtität Frankfurt am Main<br>
 Beatrice Priego-Valverde, LPL - CNRS, Aix-Marseille University<br>
 Jonathan Ginzburg, LLF - CNRS, Université de Paris<br>
 Christine Howes, CLASP, University of Gothenburg<br>
+Greg Bryant, Department of Communication, University of California, Los Angeles<br>
+
 
 
 ### Contacts
