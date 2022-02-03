@@ -20,7 +20,9 @@ Jonathan Ginzburg, LLF - CNRS, Université de Paris<br>
 Christine Howes, CLASP, University of Gothenburg<br>
 Greg Bryant, Department of Communication, University of California, Los Angeles<br>
 Isabella Poggi, Department of Philosophy, Communication, and Performing Arts, Roma Tre University, Rome<br>
-
+Magdalena Rychlowska, School of Psychology, Queen's University Belfast<br>
+Joni Zhong, Department of Rehabilitation Sciences, The Hong Kong Polytechnic University<br>
+Paul L. Rosin, Cardiff University<br>
 
 
 ### Contacts
