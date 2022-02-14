@@ -24,6 +24,7 @@ Magdalena Rychlowska, School of Psychology, Queen's University Belfast<br>
 Joni Zhong, Department of Rehabilitation Sciences, The Hong Kong Polytechnic University<br>
 Paul L. Rosin, Cardiff University<br>
 Fabien Ringeval, Grenoble Alps University<br>
+Pablo Arias Sarah, Lund University, IRCAM, CNRS, Sorbonne Universités<br>
 
 
 ### Contacts
