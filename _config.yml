@@ -19,6 +19,7 @@ navbar-links:
 #   Submit : "https://www.softconf.com/lrec2022/SmiLa/"
   # Authors Kit: "https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/"
   Organization: "organizing"
+  Keynotes: "keynotes"
 #   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
