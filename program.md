@@ -17,11 +17,11 @@ title: Program
 <tr><td>11:00–11:34</td><td>Oral Session 2</td></tr>
 <tr><td>11:00–11:17</td><td>A Measure of the Smiling Synchrony in the Conversational Face-to-face Interaction Corpus PACO-CHEESE<br><i>Stéphane Rauzy, Mary Amoyal and Béatrice Priego-Valverde</i></td></tr>
 <tr><td>11:17–11:34</td><td>Analysis of Co-Laughter Gesture Relationship on RGB videos in Dyadic Conversation Context<br><i>Hugo Bohy, Ahmad Hammoudeh, Antoine Maiorca, Stéphane Dupont and Thierry Dutoit</i></td></tr>
-<tr><td>11:35–11:55</td><td>Key Note 2 - Catherine Pelachaud</i></td></tr>
-<tr><td>11:55–12:50</td><td>Poster session + Discussions and networking</i></td></tr>
+<tr><td>11:35–11:55</td><td>Key Note 2 - Catherine Pelachaud</td></tr>
+<tr><td>11:55–12:50</td><td>Poster session + Discussions and networking</td></tr>
 <tr><td>11:55–12:50</td><td>You make me laugh! Friends, strangers and neurodiversity<br><i>Ceci Cai, Lucie Vigreux, Manying Chiu, Bangjie Wang, Alexis Macintyre, Sarah White and Sophie Scott</i></td></tr>
 <tr><td>11:55–12:50</td><td>Intergroup Bias in Smile Discrimination in Autism<br><i>Ruihan Wu, Antonia Hamilton and Sarah White</i></td></tr>
-<tr><td>11:55–12:50</td><td>Inhalation Noises as Endings of Laughs in Conversational Speech Jürgen Trouvain, Raphael Werner andKhiet Truong</i></td></tr>
+<tr><td>11:55–12:50</td><td>Inhalation Noises as Endings of Laughs in Conversational Speech<br><i>Jürgen Trouvain, Raphael Werner and Khiet Truong</i></td></tr>
 <tr><td>11:55–12:50</td><td>Are there any body-movement differences between women and men when they laugh?<br><i>Ahmad Hammoudeh, Antoine Maiorca, Stéphane Dupont andThierry Dutoit</i></td></tr>
 <tr><td>11:55–12:50</td><td>Laughter During Cooperative and Competitive Games<br><i>Magdalena Rychlowska, Gary McKeown, Ian Sneddon andWilliam Curran</i></td></tr>
 <tr><td>12:50–13:00</td><td>Closing remarks and way forward</td></tr>
