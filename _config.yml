@@ -21,6 +21,7 @@ navbar-links:
   Organization: "organizing"
   Keynotes: "keynotes"
   Program: "program"
+  Community: "community"
 #   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
